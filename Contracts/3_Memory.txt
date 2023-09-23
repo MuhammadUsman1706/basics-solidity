@@ -1,0 +1,9 @@
+Six places you can store data in solidity: Stack, memory, storage, calldata, code, logs
+
+memory and calldata are temporary variables and exists in the lifetime of a function only, whereas storage variables exists even outside of a function
+
+if not explicitly defined, it is a storage variable
+
+calldata can't be modified while memory can be modified
+
+we need to mention the type in array, structs and strings (because they are iterable)
