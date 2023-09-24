@@ -1,0 +1,5 @@
+EVM (Ethereum Virtual Machine) is the standard on how to deploy smart contracts on ethereum, like blockchains.
+
+Any blockchain that implements EVM, you can deploy your smart contracts in solidity.
+
+Some EVM compatible platforms: Avalanche, Fantom, Polygon. We can deploy our code to these blockchains.
